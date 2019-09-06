@@ -1,2 +1,2 @@
 # SupaDataLLC
-Repo that will contain codes and docs for projects
+Repo that will contain codes and docs for SupaData LLC projects
